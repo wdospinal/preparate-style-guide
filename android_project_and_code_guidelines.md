@@ -1,3 +1,11 @@
+## Table of contents
+
+### Project structure
+
+#### File naming
+* [Drawable files](#drawable_files)
+* [Resources files](#resources_files)
+
 # 1. Project guidelines
 
 ## 1.1 Project structure
@@ -11,11 +19,11 @@ Class names are written in [UpperCamelCase](http://en.wikipedia.org/wiki/CamelCa
 
 For classes that extend an Android component, the name of the class should end with the name of the component; for example: `SignInActivity`, `SignInFragment`, `ImageUploaderService`, `ChangePasswordDialog`.
 
-### 1.2.2 Resources files
+### Resources files
 
 Resources file names are written in __lowercase_underscore__.
 
-#### 1.2.2.1 Drawable files
+### Drawable files
 
 Naming conventions for drawables:
 
