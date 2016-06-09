@@ -1,3 +1,10 @@
+## Table of contents
+
+### Project structure
+
+#### File naming
+* [Drawable files](#drawable_files)
+
 # 1. Project guidelines
 
 ## 1.1 Project structure
