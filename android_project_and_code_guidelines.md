@@ -172,7 +172,7 @@ public class MyClass {
 
 ### 2.2.4 Use spaces for indentation
 
-Use __4 space__ indents for blocks:
+Use __1 tab__ indents for blocks:
 
 ```java
 if (x == 1) {
@@ -180,7 +180,7 @@ if (x == 1) {
 }
 ```
 
-Use __8 space__ indents for line wraps:
+Use __2 tabs__ indents for line wraps:
 
 ```java
 Instrument i =
