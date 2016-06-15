@@ -569,9 +569,9 @@ IDs should be prefixed with the name of the element in lowercase underscore. For
 
 | Element            | Prefix            |
 | -----------------  | ----------------- |
-| `TextView`           | `text_`             |
-| `ImageView`          | `image_`            |
-| `Button`             | `button_`           |
+| `TextView`           | `txt_`             |
+| `ImageView`          | `img_`            |
+| `Button`             | `btn_`           |
 | `Menu`               | `menu_`             |
 
 Image view example:
