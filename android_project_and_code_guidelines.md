@@ -573,7 +573,7 @@ IDs should be prefixed with the name of the element in lowercase underscore. For
 | `ImageView`          | `img_`            |
 | `Button`             | `btn_`           |
 | `Menu`               | `menu_`             |
-| `ProgressBar`        | `progbar_`             |
+| `ProgressBar`        | `pgb_`             |
 
 Image view example:
 
