@@ -1,4 +1,4 @@
-# Preparate Guidelines
+# Zanacode Guidelines
 
 List of guidelines that we use at [zanacode](http://zanacode.com) when developing for the __Android__ platform and  __Nodejs__. 
 
