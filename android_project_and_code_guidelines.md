@@ -143,10 +143,9 @@ See more info [here](https://source.android.com/source/code-style.html#fully-qua
 
 Fields should be defined at the __top of the file__ and they should follow the naming rules listed below.
 
-* Private, non-static field names start with __m__.
-* Private, static field names start with __s__.
-* Other fields start with a lower case letter.
+* Fields start with a lower case letter and camel case.
 * Static final fields (constants) are ALL_CAPS_WITH_UNDERSCORES.
+* If a fild is a id naming put __Id__ at the end.
 
 Example:
 
@@ -154,10 +153,8 @@ Example:
 public class MyClass {
     public static final int SOME_CONSTANT = 42;
     public int publicField;
-    private static MyClass sSingleton;
-    int mPackagePrivate;
-    private int mPrivate;
-    protected int mProtected;
+    private static MyClass singleton;
+    protected int myClassId;
 }
 ```
 
