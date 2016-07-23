@@ -572,6 +572,7 @@ IDs should be prefixed with the name of the element in lowercase underscore. For
 | `Button`             | `btn_`           |
 | `Menu`               | `menu_`             |
 | `ProgressBar`        | `pgb_`             |
+| `RecyclerView`        | `rcv_`             |
 
 Image view example:
 
