@@ -572,13 +572,14 @@ IDs should be prefixed with the name of the element in lowercase underscore. For
 | `Button`             | `btn_`           |
 | `Menu`               | `menu_`             |
 | `ProgressBar`        | `pgb_`             |
-| `RecyclerView`        | `rcv_`             |
+| `RecyclerView`       | `rcv_`             |
+| `CheckBox`           | `chk_`             |
 
 Image view example:
 
 ```xml
 <ImageView
-    android:id="@+id/image_profile"
+    android:id="@+id/img_profile"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 ```
